@@ -6,16 +6,15 @@ You can use the below sample API to get the repo list
 
 **Show basic details of the repo like**
 
-1) Repo name: (name/full_name)
-2) Description: (description)
-3) Owner name: (owner.login)
-4) Stars count: (stargazers_count)
-5) Number of forks: (forks_count)
-6) Language: (language)
+1) Repo name: `name`
+2) Description: `description`
+3) Owner name: `owner.login`
+4) Stars count: `stargazers_count`
+5) Number of forks: `forks_count`
+6) Language: `language`
 
 **Functionalities to be implemented**
-1) On click of the card/item the user should be redirected to the GitHub repository
-page
+1) On click of the card/item the user should be redirected to the GitHub repository page
 2) Pagination - User should be able to view the repo list in a paginated manner 
 
 **Listof options to be implemented**
