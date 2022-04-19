@@ -2,8 +2,7 @@ Develop a single page application using Angular/React/Vue to display the list of
 
 You can use the below sample API to get the repo list
 
-<https://api.github.com/search/repositories?q=language:Javascript&sort=stars&order=desc>
-&page=1&per_page=10
+<https://api.github.com/search/repositories?q=language:Javascript&sort=stars&order=desc>&page=1&per_page=10
 
 Show basic details of the repo like:
 
@@ -13,11 +12,13 @@ Show basic details of the repo like:
 4) Stars count: (stargazers_count)
 5) Number of forks: (forks_count)
 6) Language: (language)
+
 Functionalities to be implemented
 1) On click of the card/item the user should be redirected to the GitHub repository
 page
-2) Pagination - User should be able to view the repo list in a paginated manner, List
-of options to be implemented
+2) Pagination - User should be able to view the repo list in a paginated manner 
+
+Listof options to be implemented
 1) Page number
 2) Page size
 3) Next page
