@@ -1,4 +1,4 @@
-## Develop a single page application using Angular/React/Vue to display the list of GitHub repositories. 
+## React App to display the list of GitHub repositories. 
 
 You can use the below sample API to get the repo list
 
