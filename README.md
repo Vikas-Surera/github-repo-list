@@ -1,3 +1,7 @@
+# Creator
+- Vikas Surera
+- IIT Kharagpur
+
 ## React App to display the list of GitHub repositories. 
 
 Github API to fetch repo list
